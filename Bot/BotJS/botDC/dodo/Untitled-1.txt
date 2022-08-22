@@ -1,0 +1,5 @@
+
+   "prefix": "!",
+   "token": "ODkzMzM4MzAyOTA2NzY5NDY4.YVaAIA.81ZUxIEXZByCR0XYEq5weFsx-xc
+"
+}

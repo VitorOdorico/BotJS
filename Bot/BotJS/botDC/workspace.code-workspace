@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "shika"
+		},
+		{
+			"path": "src"
+		},
+		{
+			"path": "."
+		}
+	],
+	"launch": {
+		"configurations": [
+			{
+				"type": "pwa-chrome",
+				"name": "ᴼⁿˡʸ dσdσ テ#2003",
+				"request": "launch",
+				"url": ""
+			}
+		]
+	}
+}
